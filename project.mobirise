@@ -737,7 +737,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
@@ -764,7 +764,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -784,7 +784,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
