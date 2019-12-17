@@ -742,7 +742,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/bulsuuu-1695x945.png",
+                "image": "@PROJECT_PATH@/assets/images/bulsuuu-1-1695x945.png",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
